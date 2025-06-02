@@ -1,0 +1,7 @@
+{
+  "name": "docker-practica",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node src/index.js"
+  }
+}
